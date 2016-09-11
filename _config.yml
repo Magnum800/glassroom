@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://glassroom.com.ua/gallery/"
-  - JOURNAL: "http://glassroom.com.ua/journal/"
-  - ABOUT: "http://glassroom.com.ua/about/"
+  - GALLERY: "https://magnum800.github.io/glassroom/gallery/"
+  - JOURNAL: "https://magnum800.github.io/glassroom/journal/"
+  - ABOUT: "https://magnum800.github.io/glassroom/about/"
 
 # All translation keys
 translations:
