@@ -2,8 +2,8 @@
 title: GlassRoom
 email: ""
 description: "GlassRoom"
-url: "https://magnum800.github.io/"
-baseurl: "glassroom"
+url: "https://magnum800.github.io"
+baseurl: "/glassroom"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
