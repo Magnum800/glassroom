@@ -18,7 +18,7 @@ owner:
   name:   GlassRoom
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: эксклюзивные изделия из стекла
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://magnum800.github.io/glassroom/gallery/"
-  - JOURNAL: "https://magnum800.github.io/glassroom/journal/"
-  - ABOUT: "https://magnum800.github.io/glassroom/about/"
+  - НАШИ РАБОТЫ: "https://magnum800.github.io/glassroom/gallery/"
+  - ТЕХНОЛОГИИ: "https://magnum800.github.io/glassroom/journal/"
+  - О НАС: "https://magnum800.github.io/glassroom/about/"
 
 # All translation keys
 translations:
