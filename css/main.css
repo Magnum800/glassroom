@@ -1,12 +1,12 @@
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 40px;
   color: #eee;
   background-color: #000;
 }
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  margin: 50px 0;
 }
 p a {
   text-decoration: none;
