@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-size: 20px;
   color: #eee;
   background-color: #000;
 }
@@ -21,7 +21,7 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #760824;
+  color: #5B3A09;
   transition: color .4s;
   text-decorarion: none;
 }
@@ -61,7 +61,7 @@ hr.small {
 .navbar-custom .nav li a {
   color: white;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 30px;
   font-weight: 800;
   letter-spacing: 1px;
 }
@@ -76,14 +76,14 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #0085a1;
+    color: #E6D67B;
   }
   .navbar-custom .nav li a {
     color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
-    color: #0085a1;
+    color: #E6D67B;
   }
 }
 @media only screen and (min-width: 1170px) {
