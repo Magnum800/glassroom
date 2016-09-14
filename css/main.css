@@ -61,7 +61,7 @@ hr.small {
 .navbar-custom .nav li a {
   color: white;
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 800;
   letter-spacing: 1px;
 }
@@ -83,7 +83,7 @@ hr.small {
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
-    color: #E6D67B;
+    color: #E1CF69;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -120,7 +120,7 @@ hr.small {
     color: #0085a1;
   }
 .navbar-custom.is-fixed .nav li a:active{
-    color: #6ec54d;
+    color: #C5954D;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
