@@ -405,3 +405,8 @@ body {
 .fa-stack-2x {
  color: black;
 }
+
+.container.about {
+  font-weight: 600;
+  color: red;
+}
