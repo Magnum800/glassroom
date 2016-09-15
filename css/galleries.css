@@ -11,7 +11,7 @@
 .gallery-item:hover .gallery-caption .entry-summary { opacity: 1; }
 .gallery-caption h3, .gallery-caption p { -webkit-transition: -webkit-transform 0.35s; transition: transform 0.35s; padding: 39px; margin: 0; }
 .gallery-item:hover .gallery-caption h3, .gallery-item:hover .gallery-caption p { -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
-.gallery-caption h3  { font-family: Times, serif; font-weight: bold; text-transform: uppercase; font-size: 1.2em; letter-spacing: 0.05em; text-shadow: 2px 2px 6px #000; }
+.gallery-caption h3  { font-family: Times, serif; font-weight: bold; text-transform: uppercase; font-size: 1.2em; letter-spacing: 0.05em; text-shadow: 2px 2px 4px #000; }
 .gallery-caption .entry-summary > p { font-family: Times, serif; font-style: italic; font-size: .8em; opacity: .8; }
 
 #gallery-filter { display: block; position: relative; top: 12px; }
