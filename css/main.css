@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 800;
 }
 a {
   color: #654434;
@@ -324,7 +324,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #0085a1;
+  color: #FAE6C2;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -344,8 +344,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #FAE6C2;
+  border: 1px solid #FAE6C2;
   color: white;
 }
 .pager {
@@ -400,13 +400,13 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: #FAE6C2;
 }
 .fa-stack-2x {
  color: black;
 }
 
 .container.about {
-  font-weight: 300;
-  color: red;
+  font-weight: 500;
+  color: #F2EBDF;
 }
