@@ -1,0 +1,39 @@
+.tech-item {
+    background: radial-gradient(circle farthest-side at 30px 20px, #848484, #1f1f28);
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+.tech-item .title {
+    display: block;
+    height: 12rem;
+    text-align: center;
+    color: #ffffff;
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3.6rem;
+}
+
+.tech-body .image {
+    width: 50%;
+    float: left;
+}
+
+.tech-body .image img {
+    padding: 2rem;
+    width: 100%;
+    height: auto;
+}
+
+.tech-body .text {
+    width: 50%;
+    float: right;
+    padding: 2rem;
+}
+
+.tech-body .text .notice {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+}
