@@ -410,3 +410,7 @@ body {
   font-weight: 500;
   color: #DAC8BE;
 }
+
+.container.journal {
+background-color: #020F12;
+}
