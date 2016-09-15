@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - НАШИ РАБОТЫ: "https://magnum800.github.io/glassroom/gallery/"
-  - ТЕХНОЛОГИИ: "https://magnum800.github.io/glassroom/journal/"
+  - ТЕХНОЛОГИИ: "https://magnum800.github.io/glassroom/technology/"
   - О НАС: "https://magnum800.github.io/glassroom/about/"
 
 # All translation keys

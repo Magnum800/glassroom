@@ -1,0 +1,57 @@
+---
+layout: page
+description: "Комбинирование технологий в наших изделиях "
+title: "Технологии"
+active: journal
+header-img: "img/writing-bg.jpg"
+images:
+  - image_path: /gallery/albums/alb01.jpg
+    title: Ручная резьба
+    product_text: bla-bla-bla product
+    description_text: description la-la
+    price: price text
+  - image_path: /gallery/albums/alb02.jpg
+    title: Аппликации
+    product_text: bla-bla-bla product
+    description_text: description la-la
+    price: price text
+---
+
+<head>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/technology.css"
+        media="screen"/>
+</head>
+
+<body class="journal">
+
+<div class="archive">
+  <h1 class="archive-title" style="display:inline-block;"> Технологии в изделиях </h1>
+</div>
+
+<section class="technology-items">
+  {% for image in page.images %}
+    <div class="tech-item">
+      <div class="title">{{ image.title }}</div>
+      <div class="tech-body">
+        <div class="image">
+          <img src="{{ image.path }}" alt="{{ image.title }}"/>
+        </div>
+        <div class="text">
+          PRODUCT:<br/>
+          {{ image.product_text }}<br/><br/>
+          DESCRIPTION:<br/>
+          {{ image.description_text}}<br/><br/>
+          PRICE:<br/>
+          {{ image.price }}<br/><br/>
+          <span class="notice">
+            IMPORTANT<br/>
+            Any price is bla-bla-bla
+          </span>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  {% endfor %}
+</section>
+
+</body>
