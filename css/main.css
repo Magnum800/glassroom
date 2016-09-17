@@ -406,6 +406,7 @@ body {
  color: black;
 }
 .container.about {
+  text-align: justify;
   font-weight: 500;
   color: #D6CFC9;
 }
