@@ -11,7 +11,7 @@
     color: #ffffff;
     font-size: 3rem;
     font-weight: 600;
-    padding-top: 4.2rem;
+    padding-top: 6rem;
 }
 
 .tech-body .image {
@@ -28,7 +28,7 @@
 .tech-body .text {
     width: 50%;
     float: right;
-    padding: 4rem;
+    padding: 6rem;
 }
 
 .tech-body .text .notice {
