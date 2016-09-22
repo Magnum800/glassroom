@@ -7,7 +7,7 @@ body {
 p {
   line-height: 0.8;
   margin: 25px 0;
-  color: #BBB7B3;
+  color: #F2EEEA;
 }
 p a {
   text-decoration: none;
@@ -413,4 +413,9 @@ body {
 }
 .container.technology {
   background-color: #01070a;
+}
+.container.newsletter {
+  line-height: 0.8;
+  margin: 25px 0;
+  color: #BBB7B3;
 }
