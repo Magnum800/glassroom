@@ -2,8 +2,8 @@
 title: GlassRoom
 email: "glassroom.office@gmail.com"
 description: "GlassRoom"
-url: "https://magnum800.github.io"
-baseurl: "/glassroom"
+url: "http://djosi.com.ua"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,10 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - НАШИ РАБОТЫ: "https://magnum800.github.io/glassroom/gallery/"
-  - ТЕХНОЛОГИИ: "https://magnum800.github.io/glassroom/technology/"
-  - О НАС: "https://magnum800.github.io/glassroom/about/"
-  - КОНТАКТЫ: "https://magnum800.github.io/glassroom/contacts/"
+  - НАШИ РАБОТЫ: "http://djosi.com.ua/gallery/"
+  - ТЕХНОЛОГИИ: "http://djosi.com.ua/technology/"
+  - О НАС: "http://djosi.com.ua/about/"
+  - КОНТАКТЫ: "http://djosi.com.ua/contacts/"
 
 # All translation keys
 translations:
