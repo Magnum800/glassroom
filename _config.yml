@@ -1,7 +1,7 @@
 # Site settings
-title: GlassRoom
-email: "glassroom.office@gmail.com"
-description: "GlassRoom"
+title: DJOSI
+email: "magnum800@gmail.com"
+description: "Djosi"
 url: "http://djosi.com.ua"
 baseurl: "/"
 facebook_username: ""
@@ -15,7 +15,7 @@ share: false
 
 # Owner/author information
 owner:
-  name:   GlassRoom
+  name:   DJOSI
   avatar: avatar.png
   favicon: favicon.ico
   info: эксклюзивные изделия из стекла
